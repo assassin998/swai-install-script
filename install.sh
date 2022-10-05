@@ -19,8 +19,8 @@ read -p "enter"
 sleep 2
 clear
 
-sudo cp -r  ~/Downloads/config/* ~/.config/
-cp -r  ~/Downloads/Pictures/* ~/Pictures/
+sudo cp -r  ~/Downloads/swai-install-script-main/config/* ~/.config/
+cp -r  ~/Downloads/swai-install-script-main/Pictures/* ~/Pictures/
 
 echo "done"
 read -p "press to end"
