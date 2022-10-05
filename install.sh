@@ -3,7 +3,7 @@
 clear
 echo "starting"
 sudo pacman -Syuyu
-sudo pacman -S sway wayland xorg-wayland wofi pipewire brightnessctl grim thunar feh slurp kitty firefox swaync pipewire-pulse zsh
+sudo pacman -S sway wayland xorg-wayland wofi pipewire-alsa pipewire brightnessctl grim thunar feh slurp kitty firefox swaync pipewire-pulse zsh
 echo "done"
 
 sleep 2
